@@ -33,10 +33,13 @@ header nav ul {
 }
 
 .main-title {
+  display: flex;
+  flex-wrap: wrap;
   font-size: xx-large;
   color: #f50707;
   margin-top: -50px;
   text-align: center;
+  margin-left: 300px;
 }
 .selfie {
   background-image: url("selfie1.jpg");
