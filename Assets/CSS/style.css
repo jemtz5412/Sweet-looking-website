@@ -8,7 +8,7 @@ body {
 
 .imageheader {
   padding: 180px;
-  background-image: url("code1.jpeg");
+  background-image: url("../../images/code1.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -43,7 +43,7 @@ header nav ul {
 }
 /* start of main picture */
 .selfie {
-  background-image: url("selfie1.jpg");
+  background-image: url("../../selfie1.jpg");
   background-position: left;
   height: 600px;
   width: 500px;
